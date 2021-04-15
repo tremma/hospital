@@ -1,0 +1,25 @@
+.footer {
+  position: relative;
+  background: var(--color-text);
+  color: #fff; }
+  .footer__container {
+    background: var(--color-text);
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+    .footer__container span {
+      display: inline-block;
+      margin-right: 15px; }
+  .footer__social a {
+    display: inline-block;
+    margin-right: 10px; }
+    .footer__social a:hover {
+      color: var(--color-green); }
+  .footer__copy {
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    opacity: 0.7; }
+
+/*# sourceMappingURL=footer.css.map */
